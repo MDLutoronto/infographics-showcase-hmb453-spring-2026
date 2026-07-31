@@ -21,7 +21,7 @@ has_children: False  # Set to True if the page has sub-pages.
 
 ## Introduction
 
-This is a collaboration between the Map & Data Library and Dr. Haley Zubyk to showcase top student infographics assignments in HMB453. Read our [project page](https://library.utoronto.ca/project/map-and-data-library-infographic-showcases) to learn more about this initiative.
+This is a collaboration between the Map & Data Library and Dr. Haley Zubyk to showcase top student infographics assignments in HMB453. Read our [project page](https://library.utoronto.ca/project/map-and-data-library-infographics-showcases) to learn more about this initiative.
 
 ## Selected infographics
 

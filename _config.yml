@@ -51,7 +51,7 @@ aux_links_new_tab: true
 # # Each link must have a title and a url
 nav_external_links:
 - title: "Infographics Showcases Project Page"
-  url: https://library.utoronto.ca/project/map-and-data-library-infographic-showcases
+  url: https://library.utoronto.ca/project/map-and-data-library-infographics-showcases
   opens_in_new_tab: true # Optional, defaults to false
 - title: "Map & Data Library"
   url: https://mdl.library.utoronto.ca/
