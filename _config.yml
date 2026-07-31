@@ -1,8 +1,8 @@
 ## Site settings
-title: "Map & Data Library just the Docs Template"
-description: "Workshops and guides from the Map & Data Library, University of Toronto"
-url: "https://MDLutoronto.github.io/jtd-template" # change the slug to the repo's name ('jtd-template' in this case)
-repository: "MDLutoronto/jtd-template" # for github-metadata
+title: "Infographics Showcase for HMB453 - AIDS: A Global Perspective (Spring 2026)"
+description: "This is a collaboration between the Map & Data Library and Dr. Haley Zubyk to showcase top student infographics assignments in HMB453."
+url: "https://MDLutoronto.github.io/infographics-showcase-hmb453-spring-2026" # change the slug to the repo's name ('jtd-template' in this case)
+repository: "MDLutoronto/infographics-showcase-hmb453-spring-2026" # for github-metadata
 ## Navigation footer logos and links
 ## Change it only if you want to use different logos or links
 ## Logos should be placed in the /assets/images/ directory, or you can use an external image link
@@ -12,7 +12,7 @@ nav_footer_logo_top: "/assets/images/mdl_full_logo.png"
 nav_footer_logo_top_href: "https://mdl.library.utoronto.ca/"
 ## License information
 ## If `license_disabled` is `true`, license information will not be displayed, regardless of any other settings.
-license_disabled: false
+license_disabled: true
 ## If this option is left empty (and `license_disabled` is not set to `true`), the default license,
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0),
 ## will be used.
