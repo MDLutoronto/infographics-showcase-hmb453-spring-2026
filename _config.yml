@@ -50,9 +50,12 @@ aux_links_new_tab: true
 # # External navigation links that appear in the sidebar and shows after all the sub-pages
 # # Each link must have a title and a url
 nav_external_links:
-  - title: "Map & Data Library"
-    url: https://mdl.library.utoronto.ca/
-    opens_in_new_tab: true # Optional, defaults to false
+- title: "Infographics Showcases Project Page"
+  url: https://library.utoronto.ca/project/map-and-data-library-infographic-showcases
+  opens_in_new_tab: true # Optional, defaults to false
+- title: "Map & Data Library"
+  url: https://mdl.library.utoronto.ca/
+  opens_in_new_tab: true # Optional, defaults to false
 #   - title: "U of T Libraries"
 #     url: https://library.utoronto.ca/
 #     opens_in_new_tab: true # Optional, defaults to false
